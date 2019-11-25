@@ -1,4 +1,4 @@
-# limeup
+# limeup Chat
 
 A new Flutter project.
 LimeUpChat is a Plataform for chat aplications with Flutter.
