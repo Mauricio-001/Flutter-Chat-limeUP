@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "911883798854",
+    "firebase_url": "https://limeupchat.firebaseio.com",
+    "project_id": "limeupchat",
+    "storage_bucket": "limeupchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911883798854:android:2022149a57c1f6a19c7d47",
+        "android_client_info": {
+          "package_name": "com.limeupchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911883798854-6kic0ts4ogsv47ouaej7ups8dclkecan.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC1U5zFlVazGKw-7BHH_ivhJp7orHF7Qw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911883798854-6kic0ts4ogsv47ouaej7ups8dclkecan.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
