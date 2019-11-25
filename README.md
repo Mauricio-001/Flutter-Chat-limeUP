@@ -1,6 +1,11 @@
 # limeup
 
 A new Flutter project.
+LimeUpChat is a Plataform for chat aplications with Flutter.
+
+Is Possible send messages and images at Real time.
+
+Data Bank with Firebase real time, for create you sistem please, insert you Data!
 
 ## Getting Started
 
